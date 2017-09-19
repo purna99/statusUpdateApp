@@ -1,6 +1,8 @@
 # StatusUpdateApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
+In this application you can publish a status and after publishing a status, you can add reactions to it. You can like, dislike and love any status on the application.
+
+The application will be powered by Angular 4 in the front-end and Firebase in the backend and this project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
 ## Development server
 
